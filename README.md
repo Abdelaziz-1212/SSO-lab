@@ -1,9 +1,8 @@
-[README.md](https://github.com/user-attachments/files/33456359/README.md)
 # SSO Monitoring Lab
 
 Companion page for the talk "Optimal PMU Placement for Detecting, Classifying and Locating Sub-Synchronous Oscillations" (A. Abuelrub, Hamad Bin Khalifa University), IECON 2026 tutorial on sub-synchronous oscillations, Doha, 18 October 2026.
 
-Open the page: https://abdelaziz-1212.github.io/sso-lab/
+Open the page: https://abdelaziz-1212.github.io/SSO-lab/
 
 ## What you can do
 
