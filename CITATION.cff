@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this page or its data, please cite the paper below."
+title: "SSO Monitoring Lab"
+type: software
+authors:
+  - family-names: "Abuelrub"
+    given-names: "Abdelaziz"
+    affiliation: "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+repository-code: "https://github.com/Abdelaziz-1212/SSO-lab"
+url: "https://abdelaziz-1212.github.io/SSO-lab/"
+keywords:
+  - sub-synchronous oscillation
+  - PMU placement
+  - synchrophasor
+  - power systems
+preferred-citation:
+  type: conference-paper
+  title: "Spectral Observability-Based Optimal PMU Placement for Sub-Synchronous Oscillation Detection in Renewable-Dominated Power Systems"
+  authors:
+    - family-names: "Abuelrub"
+      given-names: "Abdelaziz"
+      affiliation: "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+    - family-names: "Umar"
+      given-names: "Muhammad F."
+      affiliation: "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+    - family-names: "Bayhan"
+      given-names: "Sertac"
+      affiliation: "Qatar Environment and Energy Research Institute, Hamad Bin Khalifa University, Doha, Qatar"
+    - family-names: "Ghrayeb"
+      given-names: "Ali"
+      affiliation: "College of Science and Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+  collection-title: "Proceedings of the 52nd Annual Conference of the IEEE Industrial Electronics Society (IECON 2026)"
+  conference:
+    name: "IECON 2026, 52nd Annual Conference of the IEEE Industrial Electronics Society"
+    city: "Doha"
+    country: "QA"
+  publisher:
+    name: "IEEE"
+  year: 2026
